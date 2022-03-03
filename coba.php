@@ -1,6 +1,3 @@
-//Nama : Marcellinus Calvin Gunawan
-//ID Sels : 220286
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+    <h3>Nama Nama : Marcellinus Calvin Gunawan</h3>
+    <h3>ID Sels : 220286</h3>
     <?php
         // $a = 1;
         // $b = 10;
@@ -20,7 +19,9 @@
         // $array2 = array(1, 2, 3);
         // echo $array[1]."<br>".$array2[1];
 
-        $input = 40;
+    echo "Soal 1";
+    echo "<br>";
+        $input = 80;
 
         if ($input>=80 && $input<=100) {
             echo "Nilai anda A";
@@ -33,7 +34,10 @@
         }
         
         echo "<br>";
+        echo "<br>";
 
+    echo "Soal 2";
+    echo "<br>";
         $mesin = "Bagus";
         $body = "Bagus";
 
