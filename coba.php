@@ -7,8 +7,17 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>Nama Nama : Marcellinus Calvin Gunawan</h3>
-    <h3>ID Sels : 220286</h3>
+    <table>
+        <tr>
+            <td>Nama Nama </td>
+            <td>: Marcellinus Calvin Gunawan</td>
+        </tr>
+        <tr>
+            <td>ID Sels </td>
+            <td>: 220286</td>
+        </tr>
+    </table>
+    <br>
     <?php
         // $a = 1;
         // $b = 10;
